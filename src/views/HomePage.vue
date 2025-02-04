@@ -53,4 +53,8 @@ import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/vue
 #container a {
   text-decoration: none;
 }
+
+ion-toolbar {
+    --background: red;
+}
 </style>
